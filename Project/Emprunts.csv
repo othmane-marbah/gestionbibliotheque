@@ -1,0 +1,7 @@
+Id;Utilisateur;Livre;DateEmprunt;DateRetour
+1;1;Les miserables;2024-12-31;2025-01-05
+2;4;Le Hobbit;2024-12-31;2025-01-10
+3;4;Etranger;2024-12-31;2025-01-20
+4;1;Les miserables;2025-01-05;2025-01-07
+5;1;Le Hobbit;2025-01-05;2025-01-07
+6;1;Les miserables;2025-01-05;2025-01-07

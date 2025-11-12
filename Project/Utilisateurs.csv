@@ -1,0 +1,5 @@
+id;nom;email;motDePasse;role
+1;Othmane Marbah;Othmane.marbah@emsi-edu.ma;password;membre
+2;Salim Ahouad;Salim.ahouad@emsi-edu.ma;password;administrateur
+3;Mohamed Makhfi;Mohamed.makhfi@emsi-edu.ma;password;bibliothécaire
+4;Sara Ouazza;Sara.ouazza@emsi-edu.ma;password;bibliothécaire
